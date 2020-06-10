@@ -1,0 +1,1 @@
+__all__= ['firstModule', 'secondModule']    #配合from x import *使用，导入__all__属性列表的模块
